@@ -20,6 +20,7 @@ app.use(
       "https://localhost:8081",
       "http://localhost:8081",
       "http://localhost:3000",
+      "https://vizziona.tech",
     ],
   })
 );
